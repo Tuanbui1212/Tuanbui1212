@@ -5,8 +5,7 @@
     <b>Full Stack Developer 🚀 | Open Source Enthusiast 💻 | Lifelong Learner 📚</b>
   </p>
   <p>
-    I love building scalable web applications and exploring new technologies.<br>
-    Currently working with <b>React, Next.js, Node.js</b> and <b>Microservices</b>.
+    I possess a strong passion for developing scalable web applications. Currently focusing on Java Spring Boot, ReactJS, and System Architecture.
   </p>
 
   <br>
