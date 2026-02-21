@@ -6,7 +6,7 @@
 
 🎨 Frontend Development
 <p>
-<img src="https://skillicons.dev/icons?i=react,next,vite,tailwind,sass,bootstrap&theme=dark" alt="frontend tools" />
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,sass,bootstrap&theme=dark" alt="frontend tools" />
 </p>
 
 ⚙️ Backend & Database
