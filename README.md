@@ -81,18 +81,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Tuấn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tuanbui1212&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tuanbui1212&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
-
-</div>
-
----
-
 <div align="center">
 
 *Open to Fresher / Junior Full-stack Developer opportunities*
